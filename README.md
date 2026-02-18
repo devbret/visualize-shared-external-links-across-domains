@@ -2,7 +2,7 @@
 
 !["Multiple websites scanned for internal and external links."](https://hosting.photobucket.com/images/i/bernhoftbret/two-websites.png)
 
-Collect and visualize shared outbound links from multiple domains.
+Crawls websites to collect and structure internal and external link relationships into a JSON file, which a D3.js frontend then visualizes as an interactive, color-coded network graph with zoom, drag and hover features.
 
 ## Overview
 
