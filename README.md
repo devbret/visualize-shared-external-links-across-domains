@@ -12,7 +12,7 @@ Whereas the JavaScript frontend portion uses D3.js to load the `links.json` file
 
 ## Set Up Instructions
 
-Below are the required software programs and instructions for installing and using this application.
+Below are the required software programs and instructions for installing and using this application on a Linux machine.
 
 ### Programs Needed
 
@@ -26,9 +26,9 @@ Below are the required software programs and instructions for installing and usi
 
 2. Open a terminal
 
-3. Clone this repository using `git` by running the following command: `git clone git@github.com:devbret/visualize-shared-external-links-across-domains.git`
+3. Clone this repository using `git` by running the following command: `git clone git@github.com:devbret/shared-external-links.git`
 
-4. Navigate to the repo's directory by running: `cd visualize-shared-external-links-across-domains`
+4. Navigate to the repo's directory by running: `cd shared-external-links`
 
 5. Create a virtual environment with this command: `python3 -m venv venv`
 
